@@ -2,7 +2,7 @@
 
 ## 🎖️ My Achievments - 
 - Recently Completed CS50x - An introduction to computer science by HarvardX
-  - ![CS50 Certificate]()
+  - ![CS50 Certificate](https://github.com/TechnoBoy101/TechnoBoy101.github.io/blob/files/CS50x_letter_png.png?raw=true)
 
 ## I am more into web development and have created various websites like - 
 - [https://www.nonsensebutfun.repl.co](https://www.nonsensebutfun.repl.co)
