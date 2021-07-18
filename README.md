@@ -5,7 +5,9 @@
 <img src="https://github.com/TechnoBoy101/TechnoBoy101.github.io/blob/files/CS50x_letter_png.png?raw=true" alt="drawing" width="500"/><span></span>
 ### Had finished Codecademy's HTML, CSS and JAVASCRIPT course.
 
-## I am more into web development and have created various websites like - 
+## About Me
+
+### I am more into web development and have created various websites like - 
 - [https://www.nonsensebutfun.repl.co](https://www.nonsensebutfun.repl.co)
 - [https://www.scratchcanvas.repl.co](https://www.scratchcanvas.repl.co)
 - [https://accounts.finance50.repl.co](https://accounts.finance50.repl.co)
