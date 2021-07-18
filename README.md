@@ -1,8 +1,8 @@
 # Hi there 👋. I am Daksh, an 11 year old enthusiastic programmer.
 
 ## 🎖️ My Achievments - 
-> Recently Completed CS50x - An introduction to computer science by HarvardX <br>
-> <img src="https://github.com/TechnoBoy101/TechnoBoy101.github.io/blob/files/CS50x_letter_png.png?raw=true" alt="drawing" width="500"/><br><br>
+> Recently Completed CS50x - An introduction to computer science by HarvardX <br><br>
+> <img src="https://github.com/TechnoBoy101/TechnoBoy101.github.io/blob/files/CS50x_letter_png.png?raw=true" alt="drawing" width="500"/><br>
 > Had finished Codecademy's HTML, CSS and JAVASCRIPT course.
 
 ## I am more into web development and have created various websites like - 
