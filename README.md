@@ -1,4 +1,4 @@
-# Hi there 👋. I am Daksh, an 11 year old enthusiastic programmer.
+# Hi there 👋 I am Daksh, an 11 year old enthusiastic programmer.
 
 ## 🎖️ My Achievments - 
 ### Recently Completed CS50x - An introduction to computer science by HarvardX
