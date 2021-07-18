@@ -15,7 +15,7 @@
 ### Had finished Codecademy's HTML, CSS and JAVASCRIPT course.
 
 ## 🧰Languages and Tools I have learnt and used - <br>
-![alt](https://github.com/TechnoBoy101/TechnoBoy101.github.io/blob/files/Languages%20i%20have%20learnt.png?raw=true)
+![alt](https://github.com/TechnoBoy101/TechnoBoy101.github.io/blob/files/Languages%20and%20tools.png?raw=true)
 
 ## Find me on - 
 
