@@ -1,6 +1,10 @@
-# About Me
-> I am an 11 year old enthusiastic programmer.
-> I am more into web development and have created various websites like - 
+# Hi there 👋. I am Daksh, an 11 year old enthusiastic programmer.
+
+## 🎖️ My Achievments - 
+- Recently Completed CS50x - An introduction to computer science by HarvardX
+  - ![CS50 Certificate]()
+
+## I am more into web development and have created various websites like - 
 - [https://www.nonsensebutfun.repl.co](https://www.nonsensebutfun.repl.co)
 - [https://www.scratchcanvas.repl.co](https://www.scratchcanvas.repl.co)
 - [https://accounts.finance50.repl.co](https://accounts.finance50.repl.co)
