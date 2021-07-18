@@ -20,7 +20,7 @@
 ## Find me on - 
 <p align="center">
   <a href="https://technoboy101.github.io"><img src="https://o.remove.bg/downloads/8c2ea54f-52d3-4108-9fdb-892d022cbc1d/18-187940_free-icons-png-small-website-icon-removebg-preview.png" alt="portfolio page" width="50"></a>
-  <a href="mailto:dakshgulecha29@gmail.com"><img src="https://o.remove.bg/downloads/40d92f3a-40f2-4128-a39c-365daafe5661/image-removebg-preview.png" alt="mail" width="50"></a>
+  <a href="mailto:dakshgulecha29@gmail.com"><img src="https://brandslogos.com/wp-content/uploads/images/large/gmail-icon-logo-black-and-white.png" alt="mail" width="50"></a>
   <a href="https://lnkd.in"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" alt="linkedin" width="50">
 </p>
 
