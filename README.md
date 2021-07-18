@@ -11,7 +11,7 @@
 - [https://accounts.finance50.repl.co](https://accounts.finance50.repl.co)
 - [https://trading.finance50.repl.co](https://trading.finance50.repl.co), etc.
 
-## Languages and Tools - <br>
+## 🧰Languages and Tools - <br>
 ![alt](https://github.com/TechnoBoy101/TechnoBoy101.github.io/blob/files/Languages%20i%20have%20learnt.png?raw=true)
 
 ## 🏆 My Github Stats
