@@ -19,7 +19,7 @@
 
 ## Find me on - 
 <p align="center">
-  <image src="https://o.remove.bg/downloads/8c2ea54f-52d3-4108-9fdb-892d022cbc1d/18-187940_free-icons-png-small-website-icon-removebg-preview.png" alt="portfolio page" width="50">
+  <image href="https://technoboy101.github.io" src="https://o.remove.bg/downloads/8c2ea54f-52d3-4108-9fdb-892d022cbc1d/18-187940_free-icons-png-small-website-icon-removebg-preview.png" alt="portfolio page" width="50">
 </p>
 
 ## 🏆 My Github Stats
