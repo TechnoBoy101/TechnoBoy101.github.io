@@ -3,7 +3,7 @@
 ## 🎖️ My Achievments - 
 ### Recently Completed CS50x - An introduction to computer science by HarvardX
 <img src="https://github.com/TechnoBoy101/TechnoBoy101.github.io/blob/files/CS50x_letter_png.png?raw=true" alt="drawing" width="500"/><span></span>
-### Had finished Codecademy's HTML, CSS and JAVASCRIPT course. <hr>
+### Had finished Codecademy's HTML, CSS and JAVASCRIPT course.<br>
 
 ## About Me
 
