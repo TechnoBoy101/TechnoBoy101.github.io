@@ -18,6 +18,7 @@
 ![alt](https://github.com/TechnoBoy101/TechnoBoy101.github.io/blob/files/Languages%20and%20tools.png?raw=true)
 
 ## Find me on - 
+<image src="https://www.nicepng.com/png/detail/18-187940_free-icons-png-small-website-icon.png" alt="portfolio page" width="50">
 
 ## 🏆 My Github Stats
 
