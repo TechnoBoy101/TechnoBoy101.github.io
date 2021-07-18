@@ -19,7 +19,7 @@
 
 ## Find me on - 
 <p align="center">
-  [<img src="https://o.remove.bg/downloads/8c2ea54f-52d3-4108-9fdb-892d022cbc1d/18-187940_free-icons-png-small-website-icon-removebg-preview.png" alt="portfolio page" width="50">](https://technoboy101.github.io)
+  <a href="www.google.com"><img src="https://o.remove.bg/downloads/8c2ea54f-52d3-4108-9fdb-892d022cbc1d/18-187940_free-icons-png-small-website-icon-removebg-preview.png" alt="portfolio page" width="50"></a>
   [<img src="https://o.remove.bg/downloads/40d92f3a-40f2-4128-a39c-365daafe5661/image-removebg-preview.png" alt="mail" width="50">](mailto:dakshgulecha29@gmail.com)
   [<img src="Linkedin.png" alt="linkedin" width="50">](https://lnkd.in)
 </p>
