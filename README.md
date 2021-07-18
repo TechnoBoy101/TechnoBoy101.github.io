@@ -19,9 +19,9 @@
 
 ## Find me on - 
 <p align="center">
-  <a href="https://technoboy101.github.io"><img src="https://o.remove.bg/downloads/8c2ea54f-52d3-4108-9fdb-892d022cbc1d/18-187940_free-icons-png-small-website-icon-removebg-preview.png" alt="portfolio page" width="50"></a>
-  <a href="mailto:dakshgulecha29@gmail.com"><img src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667" alt="mail" width="50"></a>
-  <a href="https://lnkd.in"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" alt="linkedin" width="50">
+  <a href="https://technoboy101.github.io"><img src="https://o.remove.bg/downloads/8c2ea54f-52d3-4108-9fdb-892d022cbc1d/18-187940_free-icons-png-small-website-icon-removebg-preview.png" alt="portfolio page" width="50"> </a>
+  <a href="mailto:dakshgulecha29@gmail.com"><img src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667" alt="mail" width="50"> </a>
+  <a href="https://lnkd.in"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" alt="linkedin" width="50"> </a>
 </p>
 
 ## 🏆 My Github Stats
