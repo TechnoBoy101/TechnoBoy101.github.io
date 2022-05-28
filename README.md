@@ -1,9 +1,8 @@
-# Hi there 👋 I am Daksh, an 11 year old enthusiastic programmer.
+# Hi there 👋 I am Daksh, a 12 year old enthusiastic programmer.
 
 ## About Me
 #### I am more into web development and have created various websites like - 
 - [https://www.nonsensebutfun.repl.co](https://www.nonsensebutfun.repl.co)
-- [https://www.scratchcanvas.repl.co](https://www.scratchcanvas.repl.co)
 - [https://accounts.finance50.repl.co](https://accounts.finance50.repl.co)
 - [https://trading.finance50.repl.co](https://trading.finance50.repl.co), etc..
 
